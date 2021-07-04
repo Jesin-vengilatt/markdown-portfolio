@@ -1,5 +1,4 @@
-<ol>
-  <li>Movies</li>
-  <li>Sports</li>
-  </ol>
+* Movies
+* Sports
   
+ 
